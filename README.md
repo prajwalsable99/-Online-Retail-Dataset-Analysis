@@ -92,5 +92,6 @@ The analysis provided actionable insights, including:
 - Products requiring better inventory planning.
 - Customer segmentation for targeted marketing strategies.
 - Revenue projections to aid business decisions.
+![image](https://github.com/user-attachments/assets/c3728e35-a434-47fd-accb-96f9798d73c2)
 
 ---
